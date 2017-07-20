@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Tikabu is an Sydney based consulting company specialising in secure devops for Microsoft environments.
+Tikabu is a Sydney based consulting company specialising in secure devops for Microsoft environments.
