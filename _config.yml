@@ -15,6 +15,7 @@ baseurl: ""
 url: ""
 twitter_username: tikabu_tech
 github_username:  tikabu
+linkedin_username: tikabu
 
 include:
   - .htaccess
