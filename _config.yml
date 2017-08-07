@@ -16,6 +16,8 @@ url: ""
 twitter_username: tikabu_tech
 github_username:  tikabu
 linkedin_username: tikabu
+header_logo: header_logo.png
+
 
 include:
   - .htaccess
